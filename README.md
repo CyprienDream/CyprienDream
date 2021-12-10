@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyprien</h1>
 <h3 align="center">A french programming enthousiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypriendream" alt="cypriendream" /></a> </p>
-
-- 🔭 I’m currently working on **live-chat-practice**
-
 - 🌱 I’m currently learning **Rspec**
 
 - 👨‍💻 All of my projects are available at [github.com/cypriendream](github.com/cypriendream)
