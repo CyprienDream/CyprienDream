@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Cyprien</h1>
+<h3 align="center">A french programming enthousiast</h3>
 
-<!--
-**CyprienDream/CyprienDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **live-chat-practice**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Rspec**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [github.com/cypriendream](github.com/cypriendream)
+
+- 💬 Ask me about **Rails, C, SQL**
+
+- 📫 How to reach me **cipri.eckert@hotmail.fr**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypriendream&show_icons=true&locale=en" alt="cypriendream" /></p>
