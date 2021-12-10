@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cyprien</h1>
+<h1 align="center">Hi, I'm Cyprien</h1>
 <h3 align="center">A french programming enthousiast</h3>
 
 - 🌱 I’m currently learning **Rspec**
